@@ -1,12 +1,10 @@
-Here's an updated README file reflecting the changes:
 
----
 
-# ETVAK - Malaria Detection App
+# Malaria Vision
 
 ## Project Overview
 
-ETVAK is an innovative application designed to detect malaria using advanced deep learning techniques. The app leverages the power of neural networks and Convolutional Neural Networks (CNNs) to provide accurate and reliable disease identification. This project aims to facilitate early detection and timely treatment of malaria, potentially saving countless lives. The deep learning models were developed from scratch using TensorFlow, achieving an impressive 95% accuracy.
+Malaria Vision is an innovative application designed to detect malaria using advanced deep learning techniques. The app leverages the power of neural networks and Convolutional Neural Networks (CNNs) to provide accurate and reliable disease identification. This project aims to facilitate early detection and timely treatment of malaria, potentially saving countless lives. The deep learning models were developed from scratch using TensorFlow, achieving an impressive 95% accuracy.
 
 ## Table of Contents
 
